@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypt_Decript_PBKDF2", "Encrypt_Decript_PBKDF2\Encrypt_Decript_PBKDF2.csproj", "{C9822DD2-30E4-4C7A-8F56-73BAC30EEB18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9822DD2-30E4-4C7A-8F56-73BAC30EEB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9822DD2-30E4-4C7A-8F56-73BAC30EEB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9822DD2-30E4-4C7A-8F56-73BAC30EEB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9822DD2-30E4-4C7A-8F56-73BAC30EEB18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {566903DD-30E3-40E4-8A19-4C556083C669}
+	EndGlobalSection
+EndGlobal
